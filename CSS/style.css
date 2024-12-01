@@ -1,0 +1,7 @@
+/* FILE CSS */
+
+footer  {
+    isplay: flex
+;
+    justify-content: space-around;
+}
