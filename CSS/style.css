@@ -1,7 +1,5 @@
 /* FILE CSS */
 
-footer  {
-    isplay: flex
-;
+footer {
     justify-content: space-around;
 }
